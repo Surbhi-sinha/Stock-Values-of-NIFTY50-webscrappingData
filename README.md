@@ -36,7 +36,7 @@ If you want to see the data perticular data scrapped please [visit](https://www.
 ![](pdfoutput.png)
 
 ## Vedio Representation
-MNscraper.mp4
+
 [![](MNscraper.gif)](MNscraper.mp4)
 
 
